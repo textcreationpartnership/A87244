@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters sent from the Lord Inchiqueen, unto the Speaker of the Honourable House of Commons. Concerning two great victories obtained over the rebels in Ireland. With an order from the House, that letters of thanks should be returned unto the Lord Inchiqueen. Die Martis, 18 Maii, 1647. Ordered by the Commons assembled in Parliament, that these letters of the Lord Inchiqueen's be forthwith printed and published. Hen. Elsynge Cler. Parl. Dom. Com.</title>
+            <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87244</idno>
+            <idno type="STC">Wing I137</idno>
+            <idno type="STC">Thomason E389_1</idno>
+            <idno type="STC">ESTC R201515</idno>
+            <idno type="EEBO-CITATION">99862016</idno>
+            <idno type="PROQUEST">99862016</idno>
+            <idno type="VID">114163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87244)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114163)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E389[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters sent from the Lord Inchiqueen, unto the Speaker of the Honourable House of Commons. Concerning two great victories obtained over the rebels in Ireland. With an order from the House, that letters of thanks should be returned unto the Lord Inchiqueen. Die Martis, 18 Maii, 1647. Ordered by the Commons assembled in Parliament, that these letters of the Lord Inchiqueen's be forthwith printed and published. Hen. Elsynge Cler. Parl. Dom. Com.</title>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright, at the Kings Head in the Old-baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114163:1"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:114163:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>TWO LETTERS <hi>SENT</hi> From the Lord INCHIQUEEN, Unto the SPEAKER of the Honourable Houſe of COMMONS.</p>
+            <p>Concerning two great Victories ob<g ref="char:EOLhyphen"/>tained over the REBELS in IRELAND.</p>
+            <p>With an Order from the Houſe, that Letters of Thanks ſhould be returned unto the LORD INCHIQUEEN.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis, 18 Maii, 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, That theſe Letters of the Lord <hi>IN<g ref="char:EOLhyphen"/>CHIQUEEN'S</hi> be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſynge Cler. Parl. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for <hi>John Wright,</hi> at the Kings Head in the <hi>Old-baily.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114163:2"/>
+            <!-- PDF PAGE 86 -->
+            <pb n="1" facs="tcp:114163:2"/>
+            <!-- PDF PAGE 86 -->
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>ON Frday laſt <hi>Dromannagh</hi> was ſurrendred into my hands, having firſt made a ſmall breach in their Outwork, and falling on with ſome men; upon that the rebels retreated into the Caſtle, which indeed was a place that might have held out a long time: but having gained the Town-wall, and drawn up our Ord<g ref="char:EOLhyphen"/>nance againſt it, the rogues took quarter for life and wearing apparel onely, and left all things elſe, which were not valuable, they having long expected a ſiege: ſo as the beſt booty there was 4 barrels of powder, with a proportion of match, a ſmal piece of Ordnance, a Murderer, 2 ſling-pieces, and 100 Arms (but the gard were not above 60 men at moſt). From thence I ſent away the Horſe inſtantly to face <hi>Cappoquin,</hi> and juſt as they drew up before the town, there was a ſupply of powder and match coming, with three Troops of Horſe, and a Regiment of Foot, who preſently retrea<g ref="char:EOLhyphen"/>ted with all the haſt they could to <hi>Clomnell</hi> in ſight of our Horſe; ſo as when I came with the reſt of the Ar<g ref="char:EOLhyphen"/>my to beleager the place; they condeſcended at the firſt ſummons to treat, and (as afterwards appeared for want of Ammunition) to give up the place upon the incloſed Articles: Juſt as the town was gi<g ref="char:EOLhyphen"/>ven up to mee, I had advertiſment of the landing of Col. <hi>Temple,</hi> with upwards of 300 Horſe; whereupon I cauſed the Army to be brought into <hi>Cappoquin;</hi> and the adjacent villages, where they might have ſome ſhelter from the weather, which hath been very foul,
+<pb n="2" facs="tcp:114163:3"/>
+               <!-- PDF PAGE 87 -->
+I repaired unto <hi>Cork,</hi> to take order for fitting the new armed forces to come unto the Army, intending with them to ſit down before <hi>Dungarvan;</hi> and for that pur<g ref="char:EOLhyphen"/>poſe I am fain firſt to lead away the Army, with all things they are able to carry with them, and having fixed them to bring back the oxen and draught horſes to draw the pieces of battery, all the oxen I have be<g ref="char:EOLhyphen"/>ing able to draw no more then two of them at a time. And although I may happen by this means in two or three dayes to get the Ordnance from <hi>Cappoquin,</hi> to <hi>Dungarven,</hi> which is but 7 miles; yet I aſſure you it wil be impoſſible to draw them to any other place till we have draught-horſes and carriages, the want whereof doth exceedingly obſtruct the carrying on of the Ser<g ref="char:EOLhyphen"/>vice. Upon the firſt news of Col. <hi>Temple</hi> his coming, I was in great fear that the men come with him would be unwilling to come abroad, becauſe I had then no money left, but what was that day to be iſſued to the Army in the field, who were paid partly in mony, and partly in proviſion; ſo as I had no ſhift, but to put the Army off two or three dayes for the money, and to give ſo much of that (as I found requiſite) to fur<g ref="char:EOLhyphen"/>niſh out Colonel <hi>Temples</hi> men; who had not been here 24 hours, when there arrived <hi>Richard Smith</hi> with the <hi>Robert</hi> and <hi>John</hi> of London with 1400 barrels of peaſe, and 700 barrels of wheat; and the next morning af<g ref="char:EOLhyphen"/>ter I came to Cork, Capt. <hi>Swanly</hi> the Admiral of theſe Seas arrived with 5000 l. in mony, 140 horſe, and 100 foot; ſo as now we are in probability abſolutely ma<g ref="char:EOLhyphen"/>ſters of the field: And I doubt not, if our ſins do not render us yet unfit for ſuch mercies, that by the latter end of this Summer all this Province will be reduced; which will be much the better and ſooner done, if the
+<pb n="3" facs="tcp:114163:3"/>
+               <!-- PDF PAGE 87 -->
+Parliament be pleaſed to ſend a Committee hither, as I have continually deſired, that may be conſtantly at Cork, to take care of providing for the Army and Garriſons, neceſſaries for the Artillery, improving of the revenue, and ſuch things as cannot be in any meaſure well done in my abſence, except I have a Committee to aſſiſt; and that they may have power for iſſuing of monies, and may ſee that the things the Army now wants may be brought ſeaſonably to us: which being my duty to repreſent to that honourable Aſſembly, I have here incloſed ſent a Liſt thereof, and if they pleaſe to tranſmit them unto us, I doubt not but we ſhall eaſily remove all the difficul<g ref="char:EOLhyphen"/>ties that the Rebels can interpoſe between us and the accompliſhing of thoſe expectations that may be enter<g ref="char:EOLhyphen"/>tained by the State, in recompence of that charge and trouble they have undergone for the re-eſtabliſhing of the Engliſh Intereſt, and the truely reformed Religion in this Province; whereunto there ſhall be no endea<g ref="char:EOLhyphen"/>vour wanting that lies in the power of</p>
+            <closer>
+               <signed>Your humble Servant, <hi>INC.</hi>
+               </signed>
+               <dateline>Cork, <date>4. May, 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Maſter Speaker,</salute>
+            </opener>
+            <p>THe winde hath ſtay'd my other Letters till now that the Town and Caſtle of <hi>Dungarvan</hi> is ſurrendered un<g ref="char:EOLhyphen"/>to me; before which I have lain ſince Munday laſt, being the 3 of this inſtant. And although I plaid upon it 4 days ſucceſſively with 4 Pieces of Battery, yet was not the place made any way aſſaultable thereby, nor indeed much the worſe; all the prejudice we did them being the beating down a Flanker upon the Town-wall, which was lyned with earth, 14 foot high: And as we finde that if
+<pb n="2" facs="tcp:114163:4"/>
+               <!-- PDF PAGE 88 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:114163:4"/>
+               <!-- PDF PAGE 88 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:114163:5"/>
+               <!-- PDF PAGE 89 -->
+they within had not wanted things neceſſary for defence thereof, it might have held out a long time; ſo we per<g ref="char:EOLhyphen"/>ceive that after the gaining of the Town, the Caſtle might in like manner have proved defenſible: Yet we conceiving them not to be of that ſtrength, had reſolved to give that place no quarter, being it had put us to ſo much trouble, leſt the giving Conditions to ſuch, might be an encouragement to other places to hold out, in ex<g ref="char:EOLhyphen"/>pectation of like Conditions at laſt. But the want of Carriages had almoſt ſtarved us, being unable to fetch our proviſions 7 miles by any other means, the windes hindering it to come by Sea (as was deſigned) then ſend<g ref="char:EOLhyphen"/>ing the men to fetch them: which being of dangerous conſequence, lying neer an enemy, we durſt not do for 3 days together, whereon the Souldiers wanted bread, and had but very little fleſh; inſomuch as many fell ſick, and all grew faint; ſo as indeed we thought it a very great bleſſing to have the Town and Caſtle ſo ſurrendred to us upon the incloſed Conditions; although we now finde they were in very ill condition to hold out longer, their Ammunition of all ſorts being almoſt ſpent; where<g ref="char:EOLhyphen"/>of they had a good ſupply coming by Sea from <hi>Waterford;</hi> but I gave order to Captain <hi>Plunket</hi>'s Frigot to come and lie in this Harbour, to prevent any relief that way; and ſhe happened to arrive (as alſo Captain <hi>Willoughby</hi> in the <hi>Nonſuch</hi>) before this Boat of Ammunition, which came within ſight of them along the Coaſt, but preſently thereupon returned.</p>
+            <p>This City of <hi>Waterford,</hi> which is now one of the richeſt in this Kingdom, as alſo the City of <hi>Caſhel,</hi> and Town of <hi>Clomnel,</hi> are each of them in great fear of our approach, and doth ſlight all ditches and places of ſhelter neer the Towns: But as I did in my laſt mention, ſo I do now
+<pb n="5" facs="tcp:114163:5"/>
+               <!-- PDF PAGE 89 -->
+by experience finde, that I cannot make an Attempt up<g ref="char:EOLhyphen"/>on any Town, until we be enabled to march with a Train; neither indeed can we put Gariſons into any more places, until we have more men: So as I muſt now apply my ſelf altogether to the deſtroying of the Rebels Quarters, if they do not fight with us, as I believe they will not: for I finde by a Spie that is come to me laſt night from <hi>Waterford,</hi> that they can raiſe neither Money or Proviſion as yet, to keep an Army together; that therefore their General <hi>Glamorgun</hi> dares not come to a Rendezvous amongſt them; that they have great di<g ref="char:EOLhyphen"/>viſions among themſelves, which alſo keep them from uniting; that many of their Officers and Souldiers are going away with the French and Spaniſh Agents from Waterford, which I ſhall give the Fleet notice of; That Ammunition is ſcarce amongſt them, whereof the great<g ref="char:EOLhyphen"/>eſt plenty is at Waterford, where the Councel pay 2<hi>s. per</hi> pound for it; That my Lord of <hi>Muskerry</hi> is now in that Ci<g ref="char:EOLhyphen"/>ty, being employed thither by the Supreme Councel, to borrow money of the Citizens to pay their Army; for the maintenance whereof, they have impoſed a Tax of the fourth part of every mans revenue, and a tenth part of perſonal eſtates in all the Iriſh Quarters: That it is there reported, that <hi>Catherlogh</hi> was taken by <hi>Pr<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ston</hi> on the 5 of this inſtant; but no certainty thereof: And that there is not yet above 1500 of the Rebels Forces toge<g ref="char:EOLhyphen"/>ther in any one place. Another Spie came unto me laſt night from <hi>Fetherd,</hi> who confirms that the Rebels are full of Diviſions, and cannot raiſe means for their Army, which therefore they cannot bring together: So as there is nothing but the defects in our Army, that hinders us (with Gods leave) to do what we would in the Rebels Quarters. And though it be now onely Carriages and
+<pb n="6" facs="tcp:114163:6"/>
+               <!-- PDF PAGE 90 -->
+Draught horſes that are wanting to carry on the Service; yet if Supplies of Moneys or Proviſions do not arrive be<g ref="char:EOLhyphen"/>fore the 10 of <hi>June,</hi> all that is now here will no longer contribute to our ſubſiſtence, with all the addition that our Contribution can make to it. But we will endea<g ref="char:EOLhyphen"/>vour to do what we can to live upon the enemy; where<g ref="char:EOLhyphen"/>in we hope for a bleſſing; not doubting but that Provi<g ref="char:EOLhyphen"/>dence which hath hitherto ſuſtained us, will enable us, either by that or ſome other means, to ſubſiſt, till Sup<g ref="char:EOLhyphen"/>plies from thence ſhall arrive to us.</p>
+            <p>Sir, I have been prolix; but it is to give you an account of what I hold my duty to inform that Honourable Aſ<g ref="char:EOLhyphen"/>ſembly of, unto whom I deſire to diſcharge all the parts thereof that lie in the power of</p>
+            <closer>
+               <dateline>Dungarvan, <date>May 10 1647.</date>
+               </dateline>
+               <salute>SIR,</salute> 
+               <signed>your moſt humble ſervant, INC.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>Die Martis, 18 Maii, 1647.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, That a Letter of thanks be written to the Lord <hi>INCHIQUEEN,</hi> and that it be referred to the Committee for the Affairs of <hi>IRELAND</hi> at Der<g ref="char:EOLhyphen"/>by-Houſe to prepare this Letter.</p>
+            <closer>
+               <signed>Hen. Elſynge Cler. Parl. Dom. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
